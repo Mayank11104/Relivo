@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+scratch*.py
+demo-shop/tests/
+Multi-Agent-Kubernetes-SRE-Security-PRD.md
